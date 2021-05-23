@@ -1,0 +1,102 @@
+.header{
+    background:linear-gradient(120deg,black,#fe7f9c);
+    margin:0;
+    text-align: center;
+    padding:10px;
+    color:white;
+    border: 1px solid black;
+}
+
+img{
+    height:25%;
+    width:25%;
+}
+.zeus{
+    background-color: blue;
+}
+
+#intro-line{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 400;
+}
+
+li{
+    list-style: none;
+}
+
+.desc{
+margin-right:5%;
+margin-left:2%;
+display: grid;
+grid-template-columns: auto auto auto;
+}
+
+img{
+    margin-left:20px;
+
+}
+#zeus{
+    width:200px;
+    height:290px;
+}
+
+#poseidon{
+    width:200px;
+    height:260px;
+}
+
+
+#hades{
+    width:200px;
+    height:260px;
+}
+#hera{
+    width:200px;
+    height:260px;
+}
+
+#athena{
+    width:200px;
+    height:260px;
+}
+
+#ares{
+    width:200px;
+    height:260px;
+}
+
+#hephaestus{
+    width:200px;
+    height:260px;
+}
+
+#aphrodite{
+    width:200px;
+    height:260px;
+}
+
+#apollo{
+    width:200px;
+    height:260px;
+}
+
+#atermis{
+    width:200px;
+    height:260px;
+}
+
+#hestia{
+    width:190px;
+    height:270px;
+}
+
+#hermes{
+    width:190px;
+    height:270px;
+}
+
+#artemis{
+    width:200px;
+    height:260px;
+}
